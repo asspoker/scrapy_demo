@@ -1,2 +1,2 @@
-scrapy 例子，包含登录状态和下载图片
+scrapy 使用cookies记录登录状态
 
